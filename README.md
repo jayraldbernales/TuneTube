@@ -20,14 +20,14 @@ Assets/Tunetube.mp4
    - **User**: user@edu.ph | **Password**: 123
    - **Admin**: admin@edu.ph | **Password**: 123
 
-## Credits
+## Screenshots
 
-Created by Jayrald Bernales.
+![image alt](https://github.com/jayraldbernales/TuneTube/blob/main/assets/Screenshot%20(433).png?raw=true)
+![image alt](https://github.com/jayraldbernales/TuneTube/blob/main/assets/Screenshot%20(434).png?raw=true)
+![image alt](https://github.com/jayraldbernales/TuneTube/blob/main/assets/Screenshot%20(435).png?raw=true)
+![image alt](https://github.com/jayraldbernales/TuneTube/blob/main/assets/Screenshot%20(436).png?raw=true)
+![image alt](https://github.com/jayraldbernales/TuneTube/blob/main/assets/Screenshot%20(437).png?raw=true)
 
-## Note
+## Admin User Mangement
 
-This is not a finished project and is still a work in progress.
-
----
-
-Happy listening! 🎶✨
+![image alt](https://github.com/jayraldbernales/TuneTube/blob/main/assets/Screenshot%20(438).png?raw=true)
